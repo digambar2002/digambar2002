@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Digambar Chaudhari</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/digambar2002/digambar2002/main/banner.png" alt="Girl in a jacket" width="2500" height="600">
+<img src="https://github.com/digambar2002/digambar2002/blob/main/banner1.png" alt="Girl in a jacket" width="2500" height="400">
 
 - 🔭 I’m currently working on [Organio](https://github.com/digambar2002/organio)
 
