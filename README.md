@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=digambar2002&show_icons=true&locale=en&layout=compact" alt="digambar2002" /></p>
 <div></div>
-<hr>
+&nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digambar2002&show_icons=true&locale=en" alt="digambar2002" /></p>
 <div></div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digambar2002&" alt="digambar2002" /></p>
