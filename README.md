@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-- 🔭 I’m currently working on [Organio](https://github.com/digambar2002/organio)
+- 🔭 I’m currently working on [Feed Food](https://github.com/digambar2002/feed_food)
 
-- 🌱 I’m currently learning **Flutter, Django**
+- 🌱 I’m currently learning **Django, React**
 
 - 👨‍💻 All of my projects are available at [https://digambar2002.github.io/portfolio/](https://digambar2002.github.io/portfolio/)
 
