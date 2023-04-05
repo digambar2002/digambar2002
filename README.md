@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-- 🔭 I’m currently working on [Feed Food](https://github.com/digambar2002/feed_food)
+- 🔭 I’m currently working on [Rudra](https://github.com/digambar2002/rudra)
 
 - 🌱 I’m currently learning **Django, React**
 
